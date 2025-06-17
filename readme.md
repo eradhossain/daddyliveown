@@ -1,15 +1,13 @@
 <b>FIXED WORKING Reinstall on huggingface or local</b> to get it working<br>
-Edit1: You can now download the playlists - Reinstall the proxy on hugging, Create a new space or duplicate the below space<br>
-Edit2: Logos & EPG Fixed<br>
+EXAMPLE URLS<br>
 https://your.hugging.hf.space/playlist/channels<br>
-https://your.hugging.hf.space/playlist/events<br><br>
-
-DaddyLive Proxy Server (Formally Pigzillaaaaa)<br>
-Usual upload to hugging face etc<br>
-<b>(NOW WORKING) <del>The playlists will not download but the proxy still runs the direct urls, Using the example below</del></b><br><br>
-How To Use EXAMPLE:<br>
+https://your.hugging.hf.space/playlist/events<br>
+OR<br>
 https://your.hugging.hf.space/proxy?url=https://new.newkso.ru/ddy6/***/mono.m3u8<br>
-See the json file for the stream urls<br><b>or use the urls from the quick setup guide below</b><br>
+See the json file for the direct stream urls<br><br>
+
+<b>DaddyLive Proxy Server (Formally Pigzillaaaaa)<br>
+Usual upload to hugging face etc</b><br>
 
 <b>HuggingFace Setup</b><br>
 1, Download the docker file <a href="https://github.com/MarkMCFC/tfms.xyz/blob/main/Dockerfile">Dockerfile</a><br>
@@ -24,20 +22,20 @@ See the json file for the stream urls<br><b>or use the urls from the quick setup
 10, Click the '3 Dots' next to settings<br>
 11, Choose 'Embed this Space'. It will show you the url of the space. Your own proxy url, Copy The Url & Keep Safe<br><br>
 ===========================================================================<br>
-<b>FIXED WORKING</b><br>
-EDIT: You can now download the playlists<br>
-https://your.hugging.hf.space/playlist/channels<br>
-https://your.hugging.hf.space/playlist/events<br><br>
-<b>Quick Setup on huggyface Sign-In to huggy First</b><br>Quick setup still working but you can now use the urls above, So just duplicate this space & use the new urls above<br><br>
+<b><h2>Quick Setup on huggyface Sign-In to huggy First</h2></b>Just duplicate this space<br>
 The easiest way to get pigzilla/daddylive 'Proxy'<br>
 See the huggingface url below Click the 3 dots (top right) & select 'Duplicate this space' Give it a 'Name' & Change it from 'Private to Public'<br>
 https://huggingface.co/spaces/dadproxy-tfms-xyz/tfms-xyz-newworkingdad/<br><br>
-To get the Stream urls in an m3u list see here (or use the urls above)<br>
+Example Urls<br>
+https://your.hugging.hf.space/playlist/channels<br>
+https://your.hugging.hf.space/playlist/events<br><br>
+
+<b>The below playlist/streams can still be used but you are best off using the urls above</b><br>
 https://dadurls.netlify.app/<br><br>
 Here is the daddy events list (you probably dont need this as it does not update but some have asked for it)<br>
 https://pigdadevents-tfms-xyz.netlify.app/<br><br>
 If you already have a huggingface account pointing to pigzillaaaa daddylive streams then you already have the proxy<br>
-https://your.hugging.hf.space/<br>
+https://your.hugging.hf.space/<br><br>
 ===========================================================================<br><br>
 <b><u>Self Hosting Tested & Working on Ubuntu20</u></b><br>Note: The playlists do not download when your are self hosting you will need to use the urls from the quick setup guide (dadurls.netlify.app)<br>
 
